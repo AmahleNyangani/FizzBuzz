@@ -10,7 +10,7 @@ namespace FizzBuzz
 		{
 			FizzBuzz();
 		}
-
+		//Coding challenge
 		public static void FizzBuzz()
 		{
 			for (int num = 0; num < 14; num++)
